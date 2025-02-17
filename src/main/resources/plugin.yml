@@ -1,0 +1,8 @@
+name: VailensYouTube
+version: '1.0'
+main: ru.vaniax17.vailensYouTube.VailensYouTube
+api-version: '1.13'
+authors: [ vaniax17 ]
+commands:
+    yt:
+      usage: /yt
